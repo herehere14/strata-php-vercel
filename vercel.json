@@ -1,0 +1,6 @@
+{
+    "functions": {
+      "api/*.php": { "runtime": "php", "regions": ["syd1"] }   
+    }
+  }
+  
